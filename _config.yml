@@ -25,9 +25,9 @@ baseurl: /
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://consorciobertiz.github.io'
+  siteurl: 'http://mncars.github.io'
   media: 'media'
-  _posts/avisos:
+  _posts/avisos/es:
     - name: "category"
       field:
         element: "hidden"
@@ -47,6 +47,26 @@ prose:
           - name: "Ingles"
             value: "en"
         selected: "es"
+  _posts/avisos/en:
+    - name: "category"
+      field:
+        element: "hidden"
+        value: "aviso"
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "aviso"
+    - name: "lang"
+      field:
+        element: "select"
+        label: "Selecciona idioma"
+        placeholder: "Castellano"
+        options:
+          - name: "Castellano"
+            value: "es"
+          - name: "Ingles"
+            value: "en"
+        selected: "en"
 t:
   es:
     Lunes: "Lunes"
