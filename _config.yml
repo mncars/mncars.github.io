@@ -48,6 +48,17 @@ prose:
             - name: "Ingles"
               value: "en"
           selected: "es"
+      - name: "published"
+        field:
+          element: "select"
+          label: "Estado"
+          placeholder: "Estado"
+          options:
+            - name: "Publicado"
+              value: "true"
+            - name: "Borrador"
+              value: "false"
+          selected: "false"
     _posts/avisos/en:
       - name: "category"
         field:
@@ -68,6 +79,17 @@ prose:
             - name: "Ingles"
               value: "en"
           selected: "en"
+      - name: "published"
+        field:
+          element: "select"
+          label: "Estado"
+          placeholder: "Estado"
+          options:
+            - name: "Publicado"
+              value: "true"
+            - name: "Borrador"
+              value: "false"
+          selected: "false"
 t:
   es:
     Lunes: "Lunes"
