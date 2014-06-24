@@ -3,9 +3,9 @@ lang: es
 layout: carrusel
 category: carrusel
 published: true
-link: "http://www.museothyssen.org/microsites/exposiciones/2014/mitos-del-pop/index.html"
-overlay_title: "Microsite sobre la exposición \"Mitos del pop\""
-overlay_description: "Museo Thyssen-Bornemisza"
+link: "http://vimeo.com/98690951"
+overlay_title: Richard Hamilton
+overlay_description: Museo Reina Sofía
 image: "/assets/images/img.microsite-mitos.jpg"
 ---
 
