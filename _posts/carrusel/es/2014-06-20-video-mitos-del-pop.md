@@ -9,4 +9,4 @@ image: "/assets/images/img.microsite-mitos.jpg"
 published: true
 ---
 
-![mitos.jpg](/assets/images/mitos.jpg)
+![img.video-mitos.jpg](/assets/images/img.video-mitos.jpg)
