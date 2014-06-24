@@ -9,4 +9,4 @@ overlay_description: "Museo Thyssen-Bornemisza"
 image: "/assets/images/img.microsite-mitos.jpg"
 ---
 
-![img.microsite-mitos.jpg](/assets/images/img.microsite-mitos.jpg)
+![richard-hamilton-vimeo.jpg](/assets/images/richard-hamilton-vimeo.jpg)
