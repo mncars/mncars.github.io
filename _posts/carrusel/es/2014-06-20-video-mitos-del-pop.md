@@ -11,4 +11,3 @@ overlay_description: "Museo Thyssen-Bornemisza"
 image: "/assets/images/img.microsite-mitos.jpg"
 ---
 
-![](//assets/images/img.video-mitos.jpg)
