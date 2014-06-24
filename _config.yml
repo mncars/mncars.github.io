@@ -28,6 +28,62 @@ prose:
   siteurl: 'http://madridespop.es'
   media: 'assets/images'
   metadata:
+    _posts/carrusel/es:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "carrusel"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "carrusel"
+      - name: "lang"
+        field:
+          element: "hidden"
+          value: "es"
+      - name: "link"
+        field:
+          element: "text"
+          label: "Enlace"
+          value: ""
+      - name: "overlay_title"
+        field:
+          element: "text"
+          label: "Título en overlay"
+          value: ""
+      - name: "overlay_description"
+        field:
+          element: "text"
+          label: "Título"
+          value: ""
+    _posts/carrusel/en:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "carrusel"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "carrusel"
+      - name: "lang"
+        field:
+          element: "hidden"
+          value: "en"
+      - name: "link"
+        field:
+          element: "text"
+          label: "Enlace"
+          value: ""
+      - name: "overlay_title"
+        field:
+          element: "text"
+          label: "Título en overlay"
+          value: ""
+      - name: "overlay_description"
+        field:
+          element: "text"
+          label: "Título"
+          value: ""
     _posts/avisos/es:
       - name: "category"
         field:
@@ -41,17 +97,6 @@ prose:
         field:
           element: "hidden"
           value: "es"
-      - name: "published"
-        field:
-          element: "select"
-          label: "Estado"
-          placeholder: "Estado"
-          options:
-            - name: "Publicado"
-              value: "true"
-            - name: "Borrador"
-              value: "false"
-          selected: "false"
     _posts/avisos/en:
       - name: "category"
         field:
@@ -65,17 +110,6 @@ prose:
         field:
           element: "hidden"
           value: "en"
-      - name: "published"
-        field:
-          element: "select"
-          label: "Estado"
-          placeholder: "Estado"
-          options:
-            - name: "Publicado"
-              value: "true"
-            - name: "Borrador"
-              value: "false"
-          selected: "false"
 t:
   es:
     Lunes: "Lunes"
