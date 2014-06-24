@@ -26,7 +26,7 @@ baseurl: /
 prose:
   rooturl: '_posts'
   siteurl: 'http://madridespop.es'
-  media: '/assets/images'
+  media: 'assets/images'
   metadata:
     _posts/avisos/es:
       - name: "category"
